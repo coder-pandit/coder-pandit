@@ -54,7 +54,7 @@
 [website]: https://coder-pandit.github.io
 [twitterfollow]: https://twitter.com/intent/follow?screen_name=coder_pandit
 [linkedin]: https://linkedin.com/in/coder-pandit
-[instagram]: https://instagram.com/coder_pandit
+[instagram]: https://instagram.com/coder.pandit
 [spotify]: https://spotify-now-playing.shiv-k-sharma.vercel.app/now-playing
 [spotifyopen]: https://spotify-now-playing.shiv-k-sharma.vercel.app/now-playing?open
 [twitterbadge]: https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white
