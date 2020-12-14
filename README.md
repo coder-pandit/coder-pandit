@@ -39,11 +39,11 @@
 ### Github Stats:
 
 <p>
-<img align="left" src="https://github-readme-stats.shiv-k-sharma.vercel.app/api/top-langs/?username=shiv-k-sharma&layout=compact&hide=html&title_color=ffffff&text_color=daf7dc&bg_color=151515" alt="shiv-k-sharma" />
+<img align="left" src="https://github-readme-stats.shiv-k-sharma.vercel.app/api/top-langs/?username=coder-pandit&layout=compact&hide=html&title_color=ffffff&text_color=daf7dc&bg_color=151515" alt="shiv-k-sharma" />
 </p>
 
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.shiv-k-sharma.vercel.app/api?username=shiv-k-sharma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="shiv-k-sharma" />
+<img align="center" src="https://github-readme-stats.shiv-k-sharma.vercel.app/api?username=coder-pandit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="shiv-k-sharma" />
 </p>
 
 ### Spotify Playing 🎧
@@ -51,10 +51,10 @@
 [![Spotify][spotify]][spotifyopen]
 
 [email]: mailto://kumarshivsharma12@gmail.com
-[website]: https://shiv-k-sharma.github.io
-[twitterfollow]: https://twitter.com/intent/follow?screen_name=_shiv_k_sharma
-[linkedin]: https://linkedin.com/in/shiv-k-sharma
-[instagram]: https://instagram.com/_shiv_k_sharma
+[website]: https://coder-pandit.github.io
+[twitterfollow]: https://twitter.com/intent/follow?screen_name=coder_pandit
+[linkedin]: https://linkedin.com/in/coder-pandit
+[instagram]: https://instagram.com/coder_pandit
 [spotify]: https://spotify-now-playing.shiv-k-sharma.vercel.app/now-playing
 [spotifyopen]: https://spotify-now-playing.shiv-k-sharma.vercel.app/now-playing?open
 [twitterbadge]: https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white
