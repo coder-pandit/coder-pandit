@@ -21,19 +21,19 @@
 ### Languages and Tools:
 
 <p align="left">
-<img src="https://unpkg.com/simple-icons@v3/icons/android.svg" alt="android" width="26" height="26"/>
+<img src="https://unpkg.com/simple-icons@v3/icons/android.svg" style="filter: invert(75%) sepia(12%) saturate(2191%) hue-rotate(91deg) brightness(97%) contrast(87%);" alt="android" width="26" height="26"/>
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="26" height="26"/>
-<img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="26" height="26"/>
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="26" height="26"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="26" height="26"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="26" height="26"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="26" height="26"/>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26"/>
-<img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26" height="26"/>
-<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26" height="26"/>
-<img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="26" height="26"/>
-<img src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" alt="redux" width="26" height="26"/>
-<img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="26" height="26"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="26" height="26"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="26" height="26"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="26" height="26"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="26" height="26"/>
+<img src="https://unpkg.com/simple-icons@v4/icons/redux.svg" style="filter: invert(39%) sepia(35%) saturate(2239%) hue-rotate(235deg) brightness(77%) contrast(89%);" alt="redux" width="26" height="26"/>
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="26" height="26"/>
 </p>
 
 ### Github Stats:
