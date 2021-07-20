@@ -6,13 +6,13 @@
 
 ### A passionate MERN Stack | Flutter developer from India 🇮🇳
 
-- 🔭 I’m currently working on **a Dairy App**
+- 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Flutter, Graphql**
+- 🌱 I’m currently learning **Graphql**
 
 - 👨‍💻 All of my projects are available at my [website][website]
 
-- 💬 Ask me about **ReactJS, NodeJS, Flutter**
+- 💬 Ask me about **ReactJS, NodeJS**
 
 - 📫 Reach me @**[email][email]**
 
