@@ -38,12 +38,16 @@
 
 ### Github Stats:
 
-<p>
-<img align="left" src="https://github-readme-stats.shiv-k-sharma.vercel.app/api/top-langs/?username=coder-pandit&layout=compact&hide=html&title_color=ffffff&text_color=daf7dc&bg_color=151515" alt="shiv-k-sharma" />
-</p>
+<!-- <p>
+<img align="left" src="https://github-readme-stats.shiv-k-sharma.vercel.app/api/top-langs/?username=coder-pandit&layout=compact&hide=html&title_color=ffffff&text_color=daf7dc&bg_color=151515" alt="coder-pandit" />
+</p> -->
 
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.shiv-k-sharma.vercel.app/api?username=coder-pandit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="shiv-k-sharma" />
+<img align="center" src="https://github-readme-stats.shiv-k-sharma.vercel.app/api?username=coder-pandit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="coder-pandit" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=coder-pandit&theme=dark" alt="coder-pandit" />
 </p>
 
 ### Spotify Playing 🎧
