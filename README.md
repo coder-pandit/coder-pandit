@@ -6,13 +6,13 @@
 
 ### A passionate MERN Stack | Flutter developer from India 🇮🇳
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working in **Yellow Class**
 
-- 🌱 I’m currently learning **Graphql**
+- 🌱 I’m currently learning **System Design**
 
 - 👨‍💻 All of my projects are available at my [website][website]
 
-- 💬 Ask me about **ReactJS, NodeJS**
+- 💬 Ask me about **ReactJS, NodeJS, Flutter**
 
 - 📫 Reach me @**[email][email]**
 
