@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I can help you exit Vim**
 
-### Languages and Tools:
+## Languages and Tools:
 
 <p align="left">
 <img src="https://unpkg.com/simple-icons@v3/icons/android.svg" style="filter: invert(75%) sepia(12%) saturate(2191%) hue-rotate(91deg) brightness(97%) contrast(87%);" alt="android" width="26" height="26"/>
@@ -36,19 +36,28 @@
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="26" height="26"/>
 </p>
 
-### Github Stats:
+## 📟 Github Stats:
 
 <!-- <p>
 <img align="left" src="https://github-readme-stats.shiv-k-sharma.vercel.app/api/top-langs/?username=coder-pandit&layout=compact&hide=html&title_color=ffffff&text_color=daf7dc&bg_color=151515" alt="coder-pandit" />
 </p> -->
 
-<p>&nbsp;
+<p align="center">
 <img align="center" src="https://github-readme-stats.shiv-k-sharma.vercel.app/api?username=coder-pandit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="coder-pandit" />
-</p>
-
-<p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=coder-pandit&theme=dark" alt="coder-pandit" />
 </p>
+
+## 📈 Activity Graph
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=coder-pandit&theme=react-dark"/>
+</p>
+
+<!--
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-pandit&theme=github_dark"/>
+</p> -->
+
 
 ### Spotify Playing 🎧
 
