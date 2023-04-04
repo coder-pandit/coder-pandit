@@ -6,13 +6,13 @@
 
 ### A passionate MERN Stack | Flutter developer from India 🇮🇳
 
-- 🔭 I’m currently working in **Yellow Class**
+- 🔭 I’m currently working in **Battery Smart**
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Platform and System Architecture**
 
 - 👨‍💻 All of my projects are available at my [website][website]
 
-- 💬 Ask me about **ReactJS, NodeJS, Flutter**
+- 💬 Ask me about **ReactJS, NodeJS, K8S, Flutter**
 
 - 📫 Reach me @**[email][email]**
 
@@ -47,10 +47,10 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=coder-pandit&theme=dark" alt="coder-pandit" />
 </p>
 
-## 📈 Activity Graph
+<!-- ## 📈 Activity Graph
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=coder-pandit&theme=react-dark"/>
-</p>
+</p> -->
 
 <!--
 ## 💳 Github Profile Summary Card
